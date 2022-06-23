@@ -21,7 +21,6 @@
     // Set in (BEGIN) 
 
 (BEGIN)
-    // Point A at current instruction
     // Load PC into D
     @R2
     D=M
